@@ -1,0 +1,38 @@
+body {
+    position: relative;
+    color: #333333;
+    font-family: 'arial';
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+    min-height: 100vh;
+}
+
+header {
+    padding: 10px 0;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.nav {
+    padding: 16px 0;
+    
+}
+
+.nav a {
+    margin-right: 2px;
+    text-decoration: none;
+    color: #333333;
+}
+
+a:hover{
+    border-bottom: 2px solid yellow;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 16px;
+}
+
